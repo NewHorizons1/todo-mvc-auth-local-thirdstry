@@ -41,4 +41,5 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
  
  Have fun testing and improving it! 😎
 
-
+# Additional Notes:
+In Server JS, comment out line 43 or else the code will not run.
